@@ -1,8 +1,7 @@
 # Bitcoin Faucet Rotator v2
+This is a clone of [https://github.com/rattfieldnz/bitcoin-faucet-rotator-v2](https://github.com/rattfieldnz/bitcoin-faucet-rotator-v2)
 
-After a few months of coding, development, and security testing, I proudly bring you the second version of the [Bitcoin Faucet Rotator](http://thebitcoinrotator.com) script! The first version can be seen by visiting [https://github.com/rattfieldnz/bitcoin-faucet-rotator](https://github.com/rattfieldnz/bitcoin-faucet-rotator).
-
-![Guest view of home page](https://i.imgur.com/gx2YfnQ.png)
+[Guest view of home page](https://i.imgur.com/gx2YfnQ.png)
 
 This script enables you to start your very own bitcoin faucet rotator, for which you can earn varying amounts of referral income. The main purpose of this script is to allow 'small-time'/beginner bitcoin enthusiasts to earn free bitcoins faster than manually surfing hundreds of bitcoin faucets. With a solid marketing campaign, your referral income is limited only by your potential. If you are new to Bitcoins, you can view [their official documentation](https://bitcoin.org/en/) to find out more. 
 
